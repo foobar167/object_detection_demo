@@ -1,6 +1,10 @@
+**/.git/
+**/.idea/
+**/models/
+**/.vscode/
+**/__pycache__/
+**/annotations/
+**/tensorboard/
+
 *.pyc
 *.ipynb_checkpoints
-__pycache__
-.vscode/
-models/*
-data/
