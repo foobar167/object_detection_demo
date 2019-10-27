@@ -1,5 +1,5 @@
-**/.git/
-**/.idea/
+.git/
+.idea/
 **/models/
 **/.vscode/
 **/__pycache__/
